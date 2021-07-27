@@ -96,3 +96,21 @@ transition: filter 1s ;
 {
     filter: grayscale(0);
 }
+footer
+{
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.ebrahim
+{
+    color: rgb(69, 112, 255);
+    text-decoration: none;
+}
+.ebrahim:hover
+{
+    color: rgb(255, 26, 26);
+}
